@@ -1,4 +1,4 @@
-body {background-color: #0CF;}
+html {background-color: #0CF;}
 
 .reveal {
 	opacity: .85;
@@ -140,4 +140,87 @@ body {background-color: #0CF;}
 	width: 300px;
 	border-radius: 50%;
 	margin: auto;
+}
+#name, #email, #jobs-given {
+	font-size: 20px;
+	font-weight: 100;
+	text-align: center;
+}
+
+#jobs-given {
+	background-color: #777;
+	color: white;
+}
+
+footer{
+  background: #667;
+  font: 12pt Georgia;
+  color: #f2f2f2;
+  margin: 0;
+  padding: 0;
+  width: 100%
+}
+
+a{
+  color: #f2f2f2;
+  text-decoration: none;
+}
+
+#footer{
+  margin-bottom: -150px;
+  clear: both;
+}
+
+.tomottoWrap{
+  position: relative;
+  background: #3CA2A2;
+}
+
+#tomotto{
+  text-align: center;
+  width: 100%;
+  letter-spacing: 2px;
+  text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.5);
+  line-height: 36px;
+  margin: auto;
+}
+
+.lookWrap{
+  background-color: #215A6D;
+  width: 100%;
+}
+
+#look{
+  column-count: 2;
+  column-gap: 1px;
+  margin: auto;
+  width: 50%;
+  height: 200px;
+}
+
+.section{
+  overflow: hidden;
+  font: 10pt verdana;
+  line-height: 1.6em;
+}
+
+.section h3{
+  font-weight: normal;
+  font: 12pt Georgia;
+  text-transform: uppercase;
+  color: yellow;
+}
+
+.section a{
+  display: block;
+}
+
+.legality{
+  margin: auto;
+  width: 100%;
+  text-align: center;
+  clear: both;
+  font: 10pt verdana;
+  line-height: 2em;
+  padding: auto ;
 }
