@@ -1,8 +1,5 @@
 @import url(https://fonts.googleapis.com/css?family=Open+Sans:400italic,400,300,600);
 
-/*body {
-	background-color: #fafafa;
-}*/
 #logo {
  width: 50%;
  height: 200px;
@@ -26,6 +23,7 @@
 	overflow: auto;
 	left: calc(100% - 100px);
 	top: 20px;
+  cursor: pointer;
 }
 
 .top, .middle{
