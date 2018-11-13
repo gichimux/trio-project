@@ -224,3 +224,17 @@ a{
   line-height: 2em;
   padding: auto ;
 }
+
+#logo {
+	width: 150px;
+	height: 100px;
+	font-weight: 400;
+	font-family: 'Alfa Slab One', cursive;
+	text-align: center;
+	background-color: #000;
+	font-size: 40px;
+	position: fixed;
+	color: white;
+	margin: auto;
+
+}
