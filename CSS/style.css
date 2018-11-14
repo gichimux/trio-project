@@ -230,10 +230,6 @@ a{
 
 .section{
   overflow: hidden;
-  /*float: left;
-  display: inline;
-  width: 160px;
-  margin: 0 15px 15px 0;*/
   font: 10pt verdana;
   line-height: 1.6em;
 }
