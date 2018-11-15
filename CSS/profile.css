@@ -117,17 +117,28 @@ html {background-color: #0CF;}
 	transition: all 350ms;
 }
 
-#profile {
-	color: #667;
-	font-size: 100px;
-	float: left;
-	padding: 20px;
-	position: fixed;
-}
 .bump {
 	top: 64px;
 	color: #667;
 }
+
+#client-details {
+	background-color: white ;
+	text-decoration: none;
+	width: 50%;
+	height: auto;
+	font-family: 'M PLUS Rounded 1c', sans-serif;
+	border: none;
+	margin:auto;
+	color:#555;
+	font-size: 18px;
+	font-weight: 80;
+	border-radius: 5px;
+	padding: 5px;
+	box-shadow:0 3px 20px 0px rgba(0, 0, 0, 0.3)
+}
+
+
 #profile-pic {
 	height: 300px;
 	width: 300px;
